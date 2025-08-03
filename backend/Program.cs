@@ -40,6 +40,7 @@ namespace MediaAluno
             turma.ImprimirMediaPorDisciplina();
             turma.MostrarAlunosAcimaDaMedia();
             turma.AlunosComFrequenciaBaixa();
+            Console.ReadKey();
         }
     }
 }
