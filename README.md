@@ -36,6 +36,27 @@ Toda a lógica é executada diretamente no console de forma simples e didática.
 
 ---
 
+## 🖥️ Como rodar o Back-end (C# - Console)
+
+### ✅ Requisitos
+
+- [.NET SDK 8.0 ou superior](https://dotnet.microsoft.com/en-us/download)
+
+### 🚀 Passos para executar
+
+1. Abra o terminal (ou o console integrado do Visual Studio)
+2. Acesse a pasta do projeto:
+
+cd backend
+
+3. Execute:
+
+dotnet run
+
+O sistema será iniciado no console e você poderá interagir diretamente por texto.
+
+---
+
 ## 💻 Interface Front-end (React)
 
 A interface foi criada apenas como uma simulação visual da aplicação. Ela contém:
@@ -50,27 +71,27 @@ A interface foi criada apenas como uma simulação visual da aplicação. Ela co
 
 ### ▶️ Como Executar o Front-end (React)
 
-1. **Abra o terminal** e navegue até a pasta do front-end:
+1. Abra o terminal e navegue até a pasta do front-end:
 
 cd frontend
 
 
-2. **Instale as dependências**:
+2. Instale as dependências:
 
 npm install
 
 
-3. **Execute a aplicação**:
+3. Execute a aplicação:
 
 npm run dev
 
 
-4. **A aplicação será iniciada automaticamente**. O endereço padrão é:
+4. A aplicação será iniciada automaticamente. O endereço padrão é:
 
 http://localhost:5173
 
 
-5. **Abra o navegador** e acesse o endereço acima para visualizar a interface.
+5. Abra o navegador e acesse o endereço acima para visualizar a interface.
 
 ---
 
