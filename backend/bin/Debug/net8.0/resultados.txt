@@ -1,0 +1,174 @@
+### Bubble Sort - Crescente - N = 15000 ###
+Experimento 1: Tempo = 2190 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 2053 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 2025 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 2003 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 2024 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 2034 ms
+
+### Bubble Sort - Decrescente - N = 15000 ###
+Experimento 1: Tempo = 3657 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 3681 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 3713 ms, Memória = 16448 bytes
+Experimento 4: Tempo = 3685 ms, Memória = 4032 bytes
+Experimento 5: Tempo = 3655 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 3674,3333333333335 ms
+
+### Bubble Sort - Aleatório - N = 15000 ###
+Experimento 1: Tempo = 3613 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 3617 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 3595 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 3645 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 3569 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 3608,3333333333335 ms
+
+### Insertion Sort - Crescente - N = 15000 ###
+Experimento 1: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 0 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 0 ms
+
+### Insertion Sort - Decrescente - N = 15000 ###
+Experimento 1: Tempo = 2682 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 2690 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 2686 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 2701 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 2664 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 2686 ms
+
+### Insertion Sort - Aleatório - N = 15000 ###
+Experimento 1: Tempo = 1288 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 1307 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 1281 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 1326 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 1306 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 1300,3333333333333 ms
+
+### Selection Sort - Crescente - N = 15000 ###
+Experimento 1: Tempo = 1988 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 1940 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 1967 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 1937 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 1920 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 1948 ms
+
+### Selection Sort - Decrescente - N = 15000 ###
+Experimento 1: Tempo = 1968 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 1943 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 1941 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 1923 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 1975 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 1950,6666666666667 ms
+
+### Selection Sort - Aleatório - N = 15000 ###
+Experimento 1: Tempo = 1813 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 1791 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 1800 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 1815 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 1788 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 1801,3333333333333 ms
+
+### Bubble Sort - Crescente - N = 30000 ###
+Experimento 1: Tempo = 8776 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 8410 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 8417 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 9652 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 8388 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 8534,333333333334 ms
+
+### Bubble Sort - Decrescente - N = 30000 ###
+Experimento 1: Tempo = 15264 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 15538 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 17442 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 15414 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 15727 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 15559,666666666666 ms
+
+### Bubble Sort - Aleatório - N = 30000 ###
+Experimento 1: Tempo = 15063 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 14956 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 14733 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 14583 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 14707 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 14798,666666666666 ms
+
+### Insertion Sort - Crescente - N = 30000 ###
+Experimento 1: Tempo = 2 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 0 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 0 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 0 ms
+
+### Insertion Sort - Decrescente - N = 30000 ###
+Experimento 1: Tempo = 11594 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 11363 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 11489 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 11938 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 11305 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 11482 ms
+
+### Insertion Sort - Aleatório - N = 30000 ###
+Experimento 1: Tempo = 5361 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 5343 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 5494 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 5375 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 5353 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 5363 ms
+
+### Selection Sort - Crescente - N = 30000 ###
+Experimento 1: Tempo = 8056 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 8110 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 8284 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 9482 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 8142 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 8178,666666666667 ms
+
+### Selection Sort - Decrescente - N = 30000 ###
+Experimento 1: Tempo = 8077 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 8060 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 8159 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 8115 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 8088 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 8093,333333333333 ms
+
+### Selection Sort - Aleatório - N = 30000 ###
+Experimento 1: Tempo = 7288 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 7374 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 7536 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 7283 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 7277 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 7315 ms
+
+### Bubble Sort - Crescente - N = 45000 ###
+Experimento 1: Tempo = 27591 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 27093 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 29030 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 27464 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 27190 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 27415 ms
+
+### Bubble Sort - Decrescente - N = 45000 ###
+Experimento 1: Tempo = 48130 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 45596 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 46721 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 42974 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 46110 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 46142,333333333336 ms
+
+### Bubble Sort - Aleatório - N = 45000 ###
+Experimento 1: Tempo = 35114 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 35752 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 36647 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 36289 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 35598 ms, Memória = 8224 bytes
+Média (descartando maior e menor): 35879,666666666664 ms
+
+### Insertion Sort - Crescente - N = 45000 ###
+Experimento 1: Tempo = 2 ms, Memória = 8224 bytes
+Experimento 2: Tempo = 3 ms, Memória = 8224 bytes
+Experimento 3: Tempo = 2 ms, Memória = 8224 bytes
+Experimento 4: Tempo = 2 ms, Memória = 8224 bytes
+Experimento 5: Tempo = 2 ms, Me
