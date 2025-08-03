@@ -16,7 +16,7 @@ Com esse sistema, o professor Carlos consegue acompanhar direitinho o desempenho
 ---
 
 # Separação do projeto
-Este projeto foi desenvolvido como parte de um desafio para uma vaga de estágio. A proposta foi dividida em duas partes:
+A proposta foi dividida em duas partes:
 
 - **Back-end:** Desenvolvido em C#, com execução via terminal/console, contendo toda a lógica de cadastro de alunos, cálculo de médias e controle de frequência.
 - **Front-end:** Criado com React apenas para fins demonstrativos de interface, sem comunicação com API.
