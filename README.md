@@ -48,6 +48,33 @@ A interface foi criada apenas como uma simulação visual da aplicação. Ela co
 
 ---
 
+### ▶️ Como Executar o Front-end (React)
+
+1. **Abra o terminal** e navegue até a pasta do front-end:
+
+cd frontend
+
+
+2. **Instale as dependências**:
+
+npm install
+
+
+3. **Execute a aplicação**:
+
+npm run dev
+
+
+4. **A aplicação será iniciada automaticamente**. O endereço padrão é:
+
+http://localhost:5173
+
+
+5. **Abra o navegador** e acesse o endereço acima para visualizar a interface.
+
+---
+
+
 ## 📁 Estrutura de Pastas
 GestaoAlunos/
 ├── README.md
